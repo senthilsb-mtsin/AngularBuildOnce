@@ -1,0 +1,10 @@
+[{
+    "host": "int1.xtrachef.com",
+    "apiURL": "http://int1.xtrachef.com:8090/api/"
+}, {
+    "host": "preprod.xtrachef.com",
+    "apiURL": "http://preprod.xtrachef.com:8090/api/"
+}, {
+    "host": "app.xtrachef.com",
+    "apiURL": "http://app.xtrachef.com:8090/api/"
+}]
